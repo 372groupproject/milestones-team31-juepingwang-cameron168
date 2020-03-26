@@ -1,0 +1,34 @@
+General Info:
+
+Reference manual: https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/
+
+Community: https://fsharp.org/
+Community Forum: https://forums.fsharp.org/
+
+Open-source project locations:
+https://fsharp.org/community/projects/
+https://awesomeopensource.com/projects/fsharp
+
+Specific Open Source Project:
+http://fsprojects.github.io/ExcelFinancialFunctions/
+Description: This is a .NET library that provides the full set of financial functions from Excel. It can be used from 
+both F# and C# as well as from other .NET languages. The main goal for the library is compatibility with Excel, 
+by providing the same functions, with the same behaviour.
+
+Note though that this is not a wrapper over the Excel library; the functions have been re-implemented in managed code 
+so that you do not need to have Excel installed to use this library.
+
+
+
+References:
+
+Fancher, Dave. Book of F : Breaking Free with Managed Functional Programming, No Starch Press, Incorporated,
+2014. ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/uaz/detail.action?docID=1650596.
+
+Syme, Don. The Early History of F#, Microsoft, fsharp.org, https://fsharp.org/history/hopl-draft-1.pdf
+
+Wikipedia contributors. "F Sharp (programming language)." Wikipedia, The Free Encyclopedia. Wikipedia, The
+Free Encyclopedia, 8 Feb. 2020. Web. 24 Mar. 2020.
+
+
+
