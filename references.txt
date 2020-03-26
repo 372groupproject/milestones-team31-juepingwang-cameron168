@@ -1,23 +1,38 @@
-General Info:
+1. Find at least one book for your language, and check it out from the library!
 
-Reference manual: https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/
+    Book of F#: Breaking Free with Managed Functional Programming.
+    Fancher, Dave ; 2014
+    Link: https://arizona-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_pq_ebook_centralEBC1650596&context=PC&vid=01UA&lang=en_US&search_scope=Everything&adaptor=primo_central_multiple_fe&tab=default_tab&query=any,contains,The%20Book%20of%20F#:%20Breaking%20Free%20with%20Managed%20Functional%20Programming%201st%20Edition
 
-Community: https://fsharp.org/
-Community Forum: https://forums.fsharp.org/
+2. Find at least one web-site that discusses the language in depth.
+    https://www.tutorialspoint.com/fsharp/index.htm
 
-Open-source project locations:
-https://fsharp.org/community/projects/
-https://awesomeopensource.com/projects/fsharp
+3. Find the language reference manual that defines the language.
+    https://docs.microsoft.com/en-us/dotnet/fsharp/
+    https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/
 
-Specific Open Source Project:
-http://fsprojects.github.io/ExcelFinancialFunctions/
-Description: This is a .NET library that provides the full set of financial functions from Excel. It can be used from 
-both F# and C# as well as from other .NET languages. The main goal for the library is compatibility with Excel, 
-by providing the same functions, with the same behaviour.
+4. Find at least one community for your language. This could be a mailing list, or an
+online forum dedicated to this language, where programmers can ask questions and
+help each other.
+    Community Forum: https://forums.fsharp.org/
+    https://stackoverflow.com/questions/tagged/f%23
 
-Note though that this is not a wrapper over the Excel library; the functions have been re-implemented in managed code 
-so that you do not need to have Excel installed to use this library.
+5.Find a description of at least one major project coded in this language. If possible,
+find an open source project so you can look at the code!
 
+    http://fsprojects.github.io/ExcelFinancialFunctions/
+    Description: This is a .NET library that provides the full set of financial functions from Excel. It can be used from
+    both F# and C# as well as from other .NET languages. The main goal for the library is compatibility with Excel,
+    by providing the same functions, with the same behaviour.
+
+    https://fslab.org/
+    FsLab is an open source F# packages for data-science. it allows uesr to
+    rapidly develop scalable, high-performance analytics and visualizations
+    using succinct, type-safe, production-ready code.
+
+6. Find and install a compiler/interpreter for the language.
+    https://fsharp.org/use/windows/
+    https://fsharp.org/use/linux/
 
 
 References:
@@ -27,8 +42,7 @@ Fancher, Dave. Book of F : Breaking Free with Managed Functional Programming, No
 
 Syme, Don. The Early History of F#, Microsoft, fsharp.org, https://fsharp.org/history/hopl-draft-1.pdf
 
+“Data Science Packages for F#.” FsLab, fslab.org/.
+
 Wikipedia contributors. "F Sharp (programming language)." Wikipedia, The Free Encyclopedia. Wikipedia, The
 Free Encyclopedia, 8 Feb. 2020. Web. 24 Mar. 2020.
-
-
-
