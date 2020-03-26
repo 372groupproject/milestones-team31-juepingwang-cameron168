@@ -1,3 +1,6 @@
+helloWorld.fs - Prints out hello world.
+somethingElse.fs - prints out integer division by 2 of an odd number, and also creates a mutable variable.
+
 In order to get the f sharp programs to work on windows the following steps must be taken:
 - Download visual studio
 - Create a new project
