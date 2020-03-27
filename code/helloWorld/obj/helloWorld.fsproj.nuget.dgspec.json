@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/juepingwang/Desktop/mileston1/helloWorld/helloWorld.fsproj": {}
+    "/home/juepingwang/Desktop/code/helloWorld/helloWorld.fsproj": {}
   },
   "projects": {
-    "/home/juepingwang/Desktop/mileston1/helloWorld/helloWorld.fsproj": {
+    "/home/juepingwang/Desktop/code/helloWorld/helloWorld.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/juepingwang/Desktop/mileston1/helloWorld/helloWorld.fsproj",
+        "projectUniqueName": "/home/juepingwang/Desktop/code/helloWorld/helloWorld.fsproj",
         "projectName": "helloWorld",
-        "projectPath": "/home/juepingwang/Desktop/mileston1/helloWorld/helloWorld.fsproj",
+        "projectPath": "/home/juepingwang/Desktop/code/helloWorld/helloWorld.fsproj",
         "packagesPath": "/home/juepingwang/.nuget/packages/",
-        "outputPath": "/home/juepingwang/Desktop/mileston1/helloWorld/obj/",
+        "outputPath": "/home/juepingwang/Desktop/code/helloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/juepingwang/.nuget/NuGet/NuGet.Config"

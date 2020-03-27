@@ -112,11 +112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/juepingwang/Desktop/mileston1/somethingElse/somethingElse.fsproj",
+      "projectUniqueName": "/home/juepingwang/Desktop/code/somethingElse/somethingElse.fsproj",
       "projectName": "somethingElse",
-      "projectPath": "/home/juepingwang/Desktop/mileston1/somethingElse/somethingElse.fsproj",
+      "projectPath": "/home/juepingwang/Desktop/code/somethingElse/somethingElse.fsproj",
       "packagesPath": "/home/juepingwang/.nuget/packages/",
-      "outputPath": "/home/juepingwang/Desktop/mileston1/somethingElse/obj/",
+      "outputPath": "/home/juepingwang/Desktop/code/somethingElse/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/juepingwang/.nuget/NuGet/NuGet.Config"
