@@ -1,20 +1,29 @@
 helloWorld.fs - Prints out hello world.
 somethingElse.fs - prints out integer division by 2 of an odd number, and also creates a mutable variable.
 
-In order to get the f sharp programs to work on windows the following steps must be taken:
-- Download visual studio
-- Create a new project
-- Look for F# under languages and select Console App (.NET Core)
-- (If not available) If this is not available, there should be a prompt once the language has been set to F# that says "Install more tools and Features". Press this.
-- (If not available) Check the .NET desktop development under Desktop and mobile, and press update/modify in the bottom right of the screen.
-- Once this is done, open and name the project.
-- You can either copy the contents of the file into the default .fs file, or delete this file and add the new file.
-- Once you have done this, press "ctrl + f5" to run the program.
+The Makefile only supports Linux Ubuntu. It will not support to MacOS and Windows 
+Before you run Makefile, make sure you install ".NET Core".
 
-Current issues trying to get f sharp to run on ubuntu terminal in windows.
-If trying to run on ubuntu, the steps take were to:
-- enter the command "sudo apt-get update"
-- enter the command "sude apt-get install fsharp"
-- Once this is done, run the compiler on the .fs file by entering "fsharpc helloWorld.fs"
-- This should have created a .exe file.
-- Error occurred when trying to enter ./helloWorld.exe
+    1. Command of check ".NET Core" version
+        dotnet --version
+
+        If nothing show up after enter the command, please see the Installation.
+       
+    2. Installation
+        For Ubuntu 18.04: 
+        Open a terminal and run the following commands:
+        
+        wget https://packages.microsoft.com/config/ubuntu/18.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
+            
+        sudo dpkg -i packages-microsoft-prod.deb
+            
+        sudo apt-get update
+            
+        sudo apt-get install apt-transport-https
+            
+        sudo apt-get update
+            
+        sudo apt-get install dotnet-sdk-3.1
+            
+        More installation information: https://dotnet.microsoft.com/download
+
