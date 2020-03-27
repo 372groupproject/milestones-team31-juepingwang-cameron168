@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PwxHWOStWrQLjriJocEej1Og44vEjOngms4uxmm5bQa4kw8Lw/brXiuupNSxgfbbgEhMcinQLXskhDf1QYh25g==",
+  "success": true,
+  "projectFilePath": "/home/juepingwang/Desktop/mileston1/helloWorld/helloWorld.fsproj",
+  "expectedPackageFiles": [
+    "/home/juepingwang/.nuget/packages/fsharp.core/4.7.0/fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
