@@ -1,5 +1,11 @@
-helloWorld.fs - Prints out hello world.
-somethingElse.fs - prints out integer division by 2 of an odd number, and also creates a mutable variable.
+Milestone1:
+- helloWorld.fs - Prints out hello world.
+- somethingElse.fs - prints out integer division by 2 of an odd number, and also creates a mutable variable.
+
+Milestone2:
+- p2_if.fs
+- p2-loops.fs
+
 
 The Makefile only supports Linux Ubuntu. It will not support to MacOS and Windows 
 Before you run Makefile, make sure you install ".NET Core".
