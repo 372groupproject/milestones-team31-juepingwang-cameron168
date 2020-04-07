@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zT8gG/t6/xmFXZcZuuXfmDV8Ur075AKdise+YHdg9oCmUThNOA514Wq1CoFca3QpsOvcjRPHxbqR8udKQzfL9g==",
+  "success": true,
+  "projectFilePath": "/home/juepingwang/Desktop/mileston2/p2_loops/p2_loops.fsproj",
+  "expectedPackageFiles": [
+    "/home/juepingwang/.nuget/packages/fsharp.core/4.7.0/fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
