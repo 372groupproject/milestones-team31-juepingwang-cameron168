@@ -5,13 +5,18 @@ Milestone1:
 Milestone2:
     p2_if.fs    - includes demonstration of if-statement, if-else statement, if-elif-else statement and Pattern Matching
     p2-loops.fs - includes demonstration of for-loop and while-loop
- 
-The Makefile only supports Linux Ubuntu. It will not support to MacOS and Windows 
-Before you run Makefile, make sure you install ".NET Core".
+
+----------------------------------------------------------------------------------------------------------------------------
+About Makefile:
+    Before you run Makefile, make sure you install ".NET Core".
+    The Makefile only supports Linux Ubuntu. It will not support to MacOS and Windows.
+
+----------------------------------------------------------------------------------------------------------------------------
+Install F# on Linux Ubuntu: 
 
     1. Command of check ".NET Core" version
         dotnet --version
-
+        
         If nothing show up after enter the command, please see the Installation.
        
     2. Installation
