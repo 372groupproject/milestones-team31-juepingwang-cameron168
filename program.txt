@@ -1,0 +1,12 @@
+Our program will implement a program that will calculate the student grades 
+and does analysis on the grade distribution.
+
+We expect the program to have the computational functionality and analytical
+functionality, such as graphs and statistical analysis. It will read the file,
+and perform data clean. Then, we will do statistical analysis, such as
+demonstration for distribution. Also, it will includes data data visualization.
+
+We expect the program to be approximately 400 - 500 lines of code.
+
+We think this program will be a good illustration of the features of our
+language because F# has a lots of advantages on data analysis
