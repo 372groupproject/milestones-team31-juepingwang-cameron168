@@ -1,12 +1,22 @@
-helloWorld.fs - Prints out hello world.
-somethingElse.fs - prints out integer division by 2 of an odd number, and also creates a mutable variable.
+Milestone1:
+    helloWorld.fs    - Prints out hello world.
+    somethingElse.fs - prints out integer division by 2 of an odd number, and also creates a mutable variable.
 
-The Makefile only supports Linux Ubuntu. It will not support to MacOS and Windows 
-Before you run Makefile, make sure you install ".NET Core".
+Milestone2:
+    p2_if.fs    - includes demonstration of if-statement, if-else statement, if-elif-else statement and Pattern Matching
+    p2-loops.fs - includes demonstration of for-loop and while-loop
+
+----------------------------------------------------------------------------------------------------------------------------
+About Makefile:
+    Before you run Makefile, make sure you install ".NET Core".
+    The Makefile only supports Linux Ubuntu. It will not support to MacOS and Windows.
+
+----------------------------------------------------------------------------------------------------------------------------
+Install F# on Linux Ubuntu: 
 
     1. Command of check ".NET Core" version
         dotnet --version
-
+        
         If nothing show up after enter the command, please see the Installation.
        
     2. Installation
