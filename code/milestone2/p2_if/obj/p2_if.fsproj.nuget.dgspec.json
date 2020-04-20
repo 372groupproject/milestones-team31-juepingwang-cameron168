@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/juepingwang/Desktop/mileston2/p2_if/p2_if.fsproj": {}
+    "/mnt/c/Users/Kaz/Documents/UACoursework/Spring2020/CSC372/project/milestones-team31-juepingwang-cameron168/code/milestone2/p2_if/p2_if.fsproj": {}
   },
   "projects": {
-    "/home/juepingwang/Desktop/mileston2/p2_if/p2_if.fsproj": {
+    "/mnt/c/Users/Kaz/Documents/UACoursework/Spring2020/CSC372/project/milestones-team31-juepingwang-cameron168/code/milestone2/p2_if/p2_if.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/juepingwang/Desktop/mileston2/p2_if/p2_if.fsproj",
+        "projectUniqueName": "/mnt/c/Users/Kaz/Documents/UACoursework/Spring2020/CSC372/project/milestones-team31-juepingwang-cameron168/code/milestone2/p2_if/p2_if.fsproj",
         "projectName": "p2_if",
-        "projectPath": "/home/juepingwang/Desktop/mileston2/p2_if/p2_if.fsproj",
-        "packagesPath": "/home/juepingwang/.nuget/packages/",
-        "outputPath": "/home/juepingwang/Desktop/mileston2/p2_if/obj/",
+        "projectPath": "/mnt/c/Users/Kaz/Documents/UACoursework/Spring2020/CSC372/project/milestones-team31-juepingwang-cameron168/code/milestone2/p2_if/p2_if.fsproj",
+        "packagesPath": "/home/kazymanazy/.nuget/packages/",
+        "outputPath": "/mnt/c/Users/Kaz/Documents/UACoursework/Spring2020/CSC372/project/milestones-team31-juepingwang-cameron168/code/milestone2/p2_if/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/juepingwang/.nuget/NuGet/NuGet.Config"
+          "/home/kazymanazy/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

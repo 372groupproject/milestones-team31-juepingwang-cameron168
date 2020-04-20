@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/juepingwang/Desktop/milestone3/p3feature.fsproj": {}
+    "/mnt/c/Users/Kaz/Documents/UACoursework/Spring2020/CSC372/project/milestones-team31-juepingwang-cameron168/code/milestone3/p3feature.fsproj": {}
   },
   "projects": {
-    "/home/juepingwang/Desktop/milestone3/p3feature.fsproj": {
+    "/mnt/c/Users/Kaz/Documents/UACoursework/Spring2020/CSC372/project/milestones-team31-juepingwang-cameron168/code/milestone3/p3feature.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/juepingwang/Desktop/milestone3/p3feature.fsproj",
+        "projectUniqueName": "/mnt/c/Users/Kaz/Documents/UACoursework/Spring2020/CSC372/project/milestones-team31-juepingwang-cameron168/code/milestone3/p3feature.fsproj",
         "projectName": "p3feature",
-        "projectPath": "/home/juepingwang/Desktop/milestone3/p3feature.fsproj",
-        "packagesPath": "/home/juepingwang/.nuget/packages/",
-        "outputPath": "/home/juepingwang/Desktop/milestone3/obj/",
+        "projectPath": "/mnt/c/Users/Kaz/Documents/UACoursework/Spring2020/CSC372/project/milestones-team31-juepingwang-cameron168/code/milestone3/p3feature.fsproj",
+        "packagesPath": "/home/kazymanazy/.nuget/packages/",
+        "outputPath": "/mnt/c/Users/Kaz/Documents/UACoursework/Spring2020/CSC372/project/milestones-team31-juepingwang-cameron168/code/milestone3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/juepingwang/.nuget/NuGet/NuGet.Config"
+          "/home/kazymanazy/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

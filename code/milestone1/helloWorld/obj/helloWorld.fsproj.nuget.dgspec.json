@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/juepingwang/Desktop/code/helloWorld/helloWorld.fsproj": {}
+    "/mnt/c/Users/Kaz/Documents/UACoursework/Spring2020/CSC372/project/milestones-team31-juepingwang-cameron168/code/milestone1/helloWorld/helloWorld.fsproj": {}
   },
   "projects": {
-    "/home/juepingwang/Desktop/code/helloWorld/helloWorld.fsproj": {
+    "/mnt/c/Users/Kaz/Documents/UACoursework/Spring2020/CSC372/project/milestones-team31-juepingwang-cameron168/code/milestone1/helloWorld/helloWorld.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/juepingwang/Desktop/code/helloWorld/helloWorld.fsproj",
+        "projectUniqueName": "/mnt/c/Users/Kaz/Documents/UACoursework/Spring2020/CSC372/project/milestones-team31-juepingwang-cameron168/code/milestone1/helloWorld/helloWorld.fsproj",
         "projectName": "helloWorld",
-        "projectPath": "/home/juepingwang/Desktop/code/helloWorld/helloWorld.fsproj",
-        "packagesPath": "/home/juepingwang/.nuget/packages/",
-        "outputPath": "/home/juepingwang/Desktop/code/helloWorld/obj/",
+        "projectPath": "/mnt/c/Users/Kaz/Documents/UACoursework/Spring2020/CSC372/project/milestones-team31-juepingwang-cameron168/code/milestone1/helloWorld/helloWorld.fsproj",
+        "packagesPath": "/home/kazymanazy/.nuget/packages/",
+        "outputPath": "/mnt/c/Users/Kaz/Documents/UACoursework/Spring2020/CSC372/project/milestones-team31-juepingwang-cameron168/code/milestone1/helloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/juepingwang/.nuget/NuGet/NuGet.Config"
+          "/home/kazymanazy/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

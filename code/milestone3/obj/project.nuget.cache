@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FDxgokF5JM8w9rbSj/Hs/j58qrLUequFGmSESfH68pYmw5B8AmOnjV54+lOAI09Nmlvx4hewEoTBclXlCTnECA==",
+  "dgSpecHash": "DM59s5QuFcIZB0vdsuqY0p30OqxOwcXOJv0HRoTxjM5wF3CHPf8kQJC8pH2uYubJ51cTqLa1Sd3oTNVrPe2SGQ==",
   "success": true,
-  "projectFilePath": "/home/juepingwang/Desktop/milestone3/p3feature.fsproj",
+  "projectFilePath": "/mnt/c/Users/Kaz/Documents/UACoursework/Spring2020/CSC372/project/milestones-team31-juepingwang-cameron168/code/milestone3/p3feature.fsproj",
   "expectedPackageFiles": [
-    "/home/juepingwang/.nuget/packages/fsharp.core/4.7.0/fsharp.core.4.7.0.nupkg.sha512"
+    "/home/kazymanazy/.nuget/packages/fsharp.core/4.7.0/fsharp.core.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

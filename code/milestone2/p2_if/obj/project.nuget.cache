@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kNQgIBxr6a4bG/ih8g8XOl6Ete03usSeBJCAQMj+AQX8xccI9n+uOySwH6GNB2ecexhRAg63dpnW9ANl6s1QNQ==",
+  "dgSpecHash": "M77U6xKA4wPTcQvJIntMfJ0ceT7sgh2OYjHssK/jV/xyE+y5Q8w9WzSXXj2mMtWEKG4Osg3TjuNNVqjQlRSG8g==",
   "success": true,
-  "projectFilePath": "/home/juepingwang/Desktop/mileston2/p2_if/p2_if.fsproj",
+  "projectFilePath": "/mnt/c/Users/Kaz/Documents/UACoursework/Spring2020/CSC372/project/milestones-team31-juepingwang-cameron168/code/milestone2/p2_if/p2_if.fsproj",
   "expectedPackageFiles": [
-    "/home/juepingwang/.nuget/packages/fsharp.core/4.7.0/fsharp.core.4.7.0.nupkg.sha512"
+    "/home/kazymanazy/.nuget/packages/fsharp.core/4.7.0/fsharp.core.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
