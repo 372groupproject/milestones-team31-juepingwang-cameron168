@@ -25,7 +25,7 @@ printfn "Using the func1 in internalModules with 4: %d \n" (example1.func1 4)
 printfn " \n\n INTERNAL MODULE TESTING \n"
 
 //Testing out internal modules now.
-printfn "  \n Calling internal modules in the other file now: \n\n"
+printfn "  \nCalling internal modules in the other file now: \n\n"
 testRun.func2
 
 printfn "Finished with module testing \n"
