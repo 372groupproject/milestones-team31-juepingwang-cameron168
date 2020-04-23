@@ -1,4 +1,9 @@
 ﻿// Learn more about F# at http://fsharp.org
+(*
+    Team: 31
+    Name: Jueping Wang
+    Name: Cameron R. Kazmierski
+*)
 
 open FSharp.Data
 
