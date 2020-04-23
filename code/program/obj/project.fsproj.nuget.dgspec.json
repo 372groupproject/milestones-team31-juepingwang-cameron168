@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/juepingwang/Desktop/project/project.fsproj": {}
+    "/home/juepingwang/Desktop/milestones-team31-juepingwang-cameron168/code/program/project.fsproj": {}
   },
   "projects": {
-    "/home/juepingwang/Desktop/project/project.fsproj": {
+    "/home/juepingwang/Desktop/milestones-team31-juepingwang-cameron168/code/program/project.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/juepingwang/Desktop/project/project.fsproj",
+        "projectUniqueName": "/home/juepingwang/Desktop/milestones-team31-juepingwang-cameron168/code/program/project.fsproj",
         "projectName": "project",
-        "projectPath": "/home/juepingwang/Desktop/project/project.fsproj",
+        "projectPath": "/home/juepingwang/Desktop/milestones-team31-juepingwang-cameron168/code/program/project.fsproj",
         "packagesPath": "/home/juepingwang/.nuget/packages/",
-        "outputPath": "/home/juepingwang/Desktop/project/obj/",
+        "outputPath": "/home/juepingwang/Desktop/milestones-team31-juepingwang-cameron168/code/program/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/juepingwang/.nuget/NuGet/NuGet.Config"

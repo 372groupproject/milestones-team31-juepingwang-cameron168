@@ -370,6 +370,7 @@ let dataCleaned =
         data <- floor :: data
     // sort poeple by thier name
     data
+    |> List.rev
     |> List.map (fun x -> x |> List.sort)
     |> List.toArray
 
