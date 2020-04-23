@@ -1,12 +1,9 @@
-Our program will implement a program that will calculate the student grades 
-and does analysis on the grade distribution.
+  Our program will implement a HTML Parser that is able to create a UofA Computer Science department directory. This program will extract all peoples’ information from the following links:
 
-We expect the program to have the computational functionality and analytical
-functionality, such as graphs and statistical analysis. It will read the file,
-and perform data clean. Then, we will do statistical analysis, such as
-demonstration for distribution. Also, it will includes data data visualization.
+      https://www.cs.arizona.edu/about/faculty
+      https://www.cs.arizona.edu/about/staff
+      https://www.cs.arizona.edu/about/graduate-students
 
-We expect the program to be approximately 400 - 500 lines of code.
+  The program will have two main functionalities, data extraction and data cleaning. The input of the program will be the above three links that are defined as the global variables. The output will have two parts. First, the Console will display the number of faculties, staff and graduate students. Second, there is a csv file that will be create after the program finishes. The csv file contains all the peoples’ information that arranged by office floor. For each floor, the information will be sorted by the peoples’ first name. In addition, the program has around 400 lines. 
 
-We think this program will be a good illustration of the features of our
-language because F# has a lots of advantages on data analysis
+  We think this program will be a good illustration of the features of our language. F# is a functional programming. Even we do not have a lot of package to use, such as Python, it has a friendly coding style and the features from OOP programming. The functional programming is very powerfully on data extraction because the syntax is easy, and the code is short. The OOP features help us deal with data cleaning. For example, the iteration will be much easier to implement and read in some cases. 
