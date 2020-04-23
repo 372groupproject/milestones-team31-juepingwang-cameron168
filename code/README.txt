@@ -16,7 +16,9 @@ Milestone4:
     internalModules.fs - Demonstrates using modules within the same file.
     externalModules.fs - Demonstrates using modules that exist outside of the current file.
     classes.fs         - Demonstrates the basics of a class in F#
-    
+
+Final project:
+    Final project has its own README file. please check the project folder
 ----------------------------------------------------------------------------------------------------------------------------
 About Makefile:
     Before you run Makefile, make sure you install ".NET Core".
