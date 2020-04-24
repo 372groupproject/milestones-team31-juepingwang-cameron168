@@ -7,7 +7,7 @@ The program will have two main functionalities, data extraction and data cleanin
 
 ----------------------------------------------------------------------------------------------------------------------------
 Important notes:
-Make sure you connect to the Interenet before you run the codes
+    Make sure you connect to the Interenet before you run the codes
 
 ----------------------------------------------------------------------------------------------------------------------------
 About Makefile:
