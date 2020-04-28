@@ -16,11 +16,11 @@ Milestone4:
     externalModules.fs - Demonstrates using modules that exist outside of the current file.
     classes.fs         - Demonstrates the basics of a class in F#
 
-Milestone4:
+Milestone5:
     p5feature.fs    - Demonstrates using Option Type. Performs squart operation on each element from a given float list and                       returns a list of real number. If the element is negative, then it will be skipped.
     
-Final project:
-    Final project has its own README file. please check the project folder
+program:
+    Final project has its own README file. please check the program folder
     
 ----------------------------------------------------------------------------------------------------------------------------
 About Makefile:
