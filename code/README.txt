@@ -28,6 +28,7 @@ About Makefile:
 Install F# on Linux Ubuntu: 
 
     1. Command of check ".NET Core" version
+        
         dotnet --version
         
         If nothing show up after enter the command, please see the Installation.
