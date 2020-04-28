@@ -8,14 +8,17 @@ Milestone2:
 
 Milestone3:
     p3feature.fs - 
-                    1. Demonstrates different data types
-                    2. small program : Given a two dimensional grade list and the list type is string. In each row, the                            first 4 data demonstrates the midterm grades and the last grade represents final grade. This                                programming will convert string list to float list. Then, it will drop the lowest midterm grade. 
+        1. Demonstrates different data types
+        2. small program : Given a two dimensional grade list and the list type is string. In each row, the                            first 4 data demonstrates the midterm grades and the last grade represents final grade. This                                programming will convert string list to float list. Then, it will drop the lowest midterm grade. 
 
 Milestone4:
     internalModules.fs - Demonstrates using modules within the same file.
     externalModules.fs - Demonstrates using modules that exist outside of the current file.
     classes.fs         - Demonstrates the basics of a class in F#
 
+Milestone4:
+    p5feature.fs    - Demonstrates using Option Type. Performs squart operation on each element from a given float list and                       returns a list of real number. If the element is negative, then it will be skipped.
+    
 Final project:
     Final project has its own README file. please check the project folder
     
