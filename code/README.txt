@@ -18,7 +18,7 @@ Milestone5:
     p5feature.fs    - Demonstrates using Option Type. Performs squart operation on each element from a given float list and returns a list of real number. If the element is negative, then it will be skipped.
     
 program:
-    Final project has its own README file. please check the program folder
+    Final program is about HTMLParser. Please check the program folder for more details.
     
 ----------------------------------------------------------------------------------------------------------------------------
 About Makefile:
