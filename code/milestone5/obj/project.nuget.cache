@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rl9qyaj4bD/xewDev57MXgNvurqrUdxLeEWUzqcYdVWl8HLF3BvT/jRdN/G1mcjT+dGCyDeRrUyVNRuJS2e/Hw==",
+  "success": true,
+  "projectFilePath": "/home/juepingwang/Desktop/milestone5/milestone5.fsproj",
+  "expectedPackageFiles": [
+    "/home/juepingwang/.nuget/packages/fsharp.core/4.7.0/fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
