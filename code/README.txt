@@ -7,9 +7,8 @@ Milestone2:
     p2-loops.fs - includes demonstration of for-loop and while-loop
 
 Milestone3:
-    p3feature.fs - 
-        1. Demonstrates different data types
-        2. small program : Given a two dimensional grade list and the list type is string. In each row, the                            first 4 data demonstrates the midterm grades and the last grade represents final grade. This                                programming will convert string list to float list. Then, it will drop the lowest midterm grade. 
+    p3feature.fs - Demonstrates different data types
+    Given a two dimensional grade list and the list type is string. In each row, the first 4 data demonstrates the midterm       grades and the last grade represents final grade. This programming will convert string list to float list. Then, it will     drop the lowest midterm grade. 
 
 Milestone4:
     internalModules.fs - Demonstrates using modules within the same file.
