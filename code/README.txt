@@ -7,7 +7,7 @@ Milestone2:
     p2-loops.fs - includes demonstration of for-loop and while-loop
 
 Milestone3:
-    p3feature.fs - Demonstrates different data types Given a two dimensional grade list and the list type is string. In each row, the first 4 data demonstrates the midterm grades and the last grade represents final grade. This programming will convert string list to float list. Then, it will drop the lowest midterm grade. 
+    p3feature.fs - Demonstrates different data types Given a two dimensional grade list and the list type is string. In each                    row, the first 4 data demonstrates the midterm grades and the last grade represents final grade. This                        programming will convert string list to float list. Then, it will drop the lowest midterm grade. 
 
 Milestone4:
     internalModules.fs - Demonstrates using modules within the same file.
@@ -15,7 +15,7 @@ Milestone4:
     classes.fs         - Demonstrates the basics of a class in F#
 
 Milestone5:
-    p5feature.fs    - Demonstrates using Option Type. Performs squart operation on each element from a given float list and returns a list of real number. If the element is negative, then it will be skipped.
+    p5feature.fs    - Demonstrates using Option Type. Performs squart operation on each element from a given float list and                       returns a list of real number. If the element is negative, then it will be skipped.
     
 program:
     Final program is about HTMLParser. Please check the program folder for more details.
