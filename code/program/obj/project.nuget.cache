@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "PLwDbPn3iw4f/aMJH9KsJt+HaNzoL5AFNI0Zc/J/4IlmxHQQgxvF1UjacJWrud8F8bdNHzRWWhdenUPRjioByg==",
+  "dgSpecHash": "oZ7aIO+43ilPFB1TP9xRDLcsR91bswDSfB5tiqOZCjIcH7MeynV/ciyF0s8pBuwN8kaDKfb2F0Wd5ff5Plm0ig==",
   "success": true,
-  "projectFilePath": "/home/juepingwang/Desktop/milestones-team31-juepingwang-cameron168/code/program/project.fsproj",
+  "projectFilePath": "C:\\Users\\Kaz\\Documents\\UACoursework\\Spring2020\\CSC372\\project\\milestones-team31-juepingwang-cameron168\\code\\program\\project.fsproj",
   "expectedPackageFiles": [
-    "/home/juepingwang/.nuget/packages/fsharp.core/4.7.0/fsharp.core.4.7.0.nupkg.sha512",
-    "/home/juepingwang/.nuget/packages/fsharp.data/3.3.3/fsharp.data.3.3.3.nupkg.sha512"
+    "C:\\Users\\Kaz\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512",
+    "C:\\Users\\Kaz\\.nuget\\packages\\fsharp.data\\3.3.3\\fsharp.data.3.3.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -71,7 +71,7 @@
         "runtime": {
           "lib/netstandard2.0/FSharp.Data.dll": {
             "assemblyVersion": "3.3.3.0",
-            "fileVersion": "3.3.3.0"
+            "fileVersion": "0.0.0.0"
           }
         }
       }
